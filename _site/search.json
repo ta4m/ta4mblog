@@ -6,28 +6,28 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-02-15T19:57:37+01:00"
+      "last_modified": "2021-02-15T20:37:24+01:00"
     },
     {
       "path": "code.html",
       "title": "TA4M",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-02-15T19:57:37+01:00"
+      "last_modified": "2021-02-15T20:37:25+01:00"
     },
     {
       "path": "datasets.html",
       "title": "datasets",
       "author": [],
       "contents": "\nChapter 1\nMarket Dynamics of Products\nProduct Characteristics Information\nProduct Reviews\nReviewer Information\n\n\n\n",
-      "last_modified": "2021-02-15T19:57:38+01:00"
+      "last_modified": "2021-02-15T20:37:25+01:00"
     },
     {
       "path": "index.html",
       "title": "TA4M",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-02-15T19:57:38+01:00"
+      "last_modified": "2021-02-15T20:37:26+01:00"
     }
   ],
   "collections": ["posts/posts.json"]

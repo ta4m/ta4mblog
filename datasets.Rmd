@@ -1,7 +1,7 @@
 ---
 title: "datasets"
 site: distill::distill_website
-listing: posts
+
 ---
 
 ## Chapter 1
