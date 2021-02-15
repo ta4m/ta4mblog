@@ -9,4 +9,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Datasets"
+      href: datasets.html
+    - text: "Code"
+      href: code.html
 output: distill::distill_article

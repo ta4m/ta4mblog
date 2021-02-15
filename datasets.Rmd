@@ -1,0 +1,15 @@
+---
+title: "datasets"
+site: distill::distill_website
+listing: posts
+---
+
+## Chapter 1
+
+[Market Dynamics of Products](../datasets/Market Dynamics of Products.csv)
+
+[Product Characteristics Information](../datasets/Product Characteristics Information.csv)
+
+[Product Reviews](../datasets/Product Reviews.csv)
+
+[Reviewer Information](../datasets/Reviewer Information.csv)
