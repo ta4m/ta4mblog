@@ -6,6 +6,8 @@ site: distill::distill_website
 
 ## Chapter 1
 
+[Sample file](../datasets/sample.csv)
+
 [Market Dynamics of Products](../datasets/Market Dynamics of Products.csv)
 
 [Product Characteristics Information](../datasets/Product Characteristics Information.csv)
